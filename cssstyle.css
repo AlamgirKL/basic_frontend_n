@@ -7,3 +7,12 @@
     color: teal;
     font-size: 20 px;
 }
+
+
+*{
+    color: black;
+}
+
+h4 ,p {
+    color: brown;
+}
